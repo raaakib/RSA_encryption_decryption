@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553627939 source:c:\users\raaakib\desktop\1507042\encrypt\main.c
+	<stdio.h>
+	<gmp.h>
+	<assert.h>
+
+1035175204 c:\users\raaakib\desktop\gmp demo\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
